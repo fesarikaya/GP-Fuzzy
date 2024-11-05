@@ -46,7 +46,7 @@ pip install numpy pandas matplotlib seaborn scikit-fuzzy scikit-learn scipy
 
 ## Project Structure
 
-- `GP_Fuzzy_Project.py`: Main script containing data preprocessing, feature engineering, and fuzzy system implementation
+- `GP_Fuzzy_Project.ipynb`: Main script containing data preprocessing, feature engineering, and fuzzy system implementation
 - `Data/`: Directory containing the dataset files
 
 ## Methodology
